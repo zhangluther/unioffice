@@ -8,10 +8,10 @@
 package drawing
 
 import (
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/color"
-	"github.com/Esword618/unioffice/measurement"
-	"github.com/Esword618/unioffice/schema/soo/dml"
+	"github.com/zhangluther/unioffice"
+	"github.com/zhangluther/unioffice/color"
+	"github.com/zhangluther/unioffice/measurement"
+	"github.com/zhangluther/unioffice/schema/soo/dml"
 )
 
 type LineProperties struct {

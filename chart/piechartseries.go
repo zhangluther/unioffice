@@ -8,9 +8,9 @@
 package chart
 
 import (
-	"github.com/Esword618/unioffice/drawing"
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	crt "github.com/Esword618/unioffice/schema/soo/dml/chart"
+	"github.com/zhangluther/unioffice/drawing"
+	"github.com/zhangluther/unioffice/schema/soo/dml"
+	crt "github.com/zhangluther/unioffice/schema/soo/dml/chart"
 )
 
 // PieChartSeries is a series to be used on an Pie chart.

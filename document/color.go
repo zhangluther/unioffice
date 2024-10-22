@@ -10,8 +10,8 @@ package document
 import (
 	"fmt"
 
-	"github.com/Esword618/unioffice/color"
-	"github.com/Esword618/unioffice/schema/soo/wml"
+	"github.com/zhangluther/unioffice/color"
+	"github.com/zhangluther/unioffice/schema/soo/wml"
 )
 
 // Color controls the run or styles color.

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/dml/picture"
+	"github.com/zhangluther/unioffice/schema/soo/dml/picture"
 )
 
 func TestPicConstructor(t *testing.T) {

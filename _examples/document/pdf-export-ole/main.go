@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Esword618/unioffice/document"
 	ole "github.com/go-ole/go-ole"
 	"github.com/go-ole/go-ole/oleutil"
+	"github.com/zhangluther/unioffice/document"
 )
 
 // NOTE: This example can only run on Windows and requires that Word be installed.

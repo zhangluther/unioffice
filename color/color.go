@@ -8,7 +8,7 @@
 package color
 
 import (
-	"github.com/Esword618/unioffice"
+	"github.com/zhangluther/unioffice"
 )
 
 // Color is a 24 bit color that can be converted to

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/zhangluther/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type AG_TransitionalPassword struct {

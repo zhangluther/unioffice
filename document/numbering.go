@@ -8,9 +8,9 @@
 package document
 
 import (
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/Esword618/unioffice/schema/soo/wml"
+	"github.com/zhangluther/unioffice"
+	"github.com/zhangluther/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/zhangluther/unioffice/schema/soo/wml"
 )
 
 // Numbering is the document wide numbering styles contained in numbering.xml.

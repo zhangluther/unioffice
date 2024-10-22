@@ -10,8 +10,8 @@ package spreadsheet
 import (
 	"strings"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/schema/soo/sml"
+	"github.com/zhangluther/unioffice"
+	"github.com/zhangluther/unioffice/schema/soo/sml"
 )
 
 // DataValidationList is just a view on a DataValidation configured as a list.

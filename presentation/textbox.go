@@ -8,9 +8,9 @@
 package presentation
 
 import (
-	"github.com/Esword618/unioffice/drawing"
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	"github.com/Esword618/unioffice/schema/soo/pml"
+	"github.com/zhangluther/unioffice/drawing"
+	"github.com/zhangluther/unioffice/schema/soo/dml"
+	"github.com/zhangluther/unioffice/schema/soo/pml"
 )
 
 // TextBox is a text box within a slide.

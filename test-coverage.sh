@@ -1,5 +1,5 @@
 #!/bin/bash
-PKG=github.com/Esword618/unioffice
+PKG=github.com/zhangluther/unioffice
 ALLPKGS=`go list $PKG/... | grep -iv schema`
 
 cd $GOPATH/src/$PKG
@@ -9,7 +9,7 @@ go test -i $PKG/...
 
 echo -e "mode: atomic"  > coverage.txt
 echo "Running tests"
-for pkg in $ALLPKGS; do 
+for pkg in $ALLPKGS; do
     echo $pkg
     go test -coverprofile=coverprofile -covermode=atomic $pkg
     if [ -f coverprofile ]; then

@@ -19,17 +19,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/common/license"
-	"github.com/Esword618/unioffice/vmldrawing"
-	"github.com/Esword618/unioffice/zippkg"
+	"github.com/zhangluther/unioffice"
+	"github.com/zhangluther/unioffice/common"
+	"github.com/zhangluther/unioffice/common/license"
+	"github.com/zhangluther/unioffice/vmldrawing"
+	"github.com/zhangluther/unioffice/zippkg"
 
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	crt "github.com/Esword618/unioffice/schema/soo/dml/chart"
-	sd "github.com/Esword618/unioffice/schema/soo/dml/spreadsheetDrawing"
-	"github.com/Esword618/unioffice/schema/soo/pkg/relationships"
-	"github.com/Esword618/unioffice/schema/soo/sml"
+	"github.com/zhangluther/unioffice/schema/soo/dml"
+	crt "github.com/zhangluther/unioffice/schema/soo/dml/chart"
+	sd "github.com/zhangluther/unioffice/schema/soo/dml/spreadsheetDrawing"
+	"github.com/zhangluther/unioffice/schema/soo/pkg/relationships"
+	"github.com/zhangluther/unioffice/schema/soo/sml"
 )
 
 // ErrorNotFound is returned when something is not found

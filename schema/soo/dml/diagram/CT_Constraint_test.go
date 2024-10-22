@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/dml/diagram"
+	"github.com/zhangluther/unioffice/schema/soo/dml/diagram"
 )
 
 func TestCT_ConstraintConstructor(t *testing.T) {
